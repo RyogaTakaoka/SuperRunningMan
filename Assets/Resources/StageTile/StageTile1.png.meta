@@ -1,0 +1,3008 @@
+fileFormatVersion: 2
+guid: 959485ae4a7007746901bbfc5bd5ca1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6567703037583759996
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_0"
+  - first:
+      213: -7787672571532017348
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_1"
+  - first:
+      213: 6748417356947124891
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_2"
+  - first:
+      213: 4178930112315729186
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_3"
+  - first:
+      213: 5021897615651865898
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_4"
+  - first:
+      213: -7035948657486449164
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_5"
+  - first:
+      213: 8226141074774903464
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_0"
+  - first:
+      213: 3149258045604492273
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_1"
+  - first:
+      213: 2856420334969183241
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_2"
+  - first:
+      213: -4794685411639306612
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_3"
+  - first:
+      213: -5624076289455301690
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_4"
+  - first:
+      213: -1586641857053567983
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_5"
+  - first:
+      213: 3630330904632840580
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_6"
+  - first:
+      213: 1172827104825213771
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_7"
+  - first:
+      213: 1624479142560490091
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_8"
+  - first:
+      213: -5198986767709807286
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_9"
+  - first:
+      213: -307797749106684329
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_10"
+  - first:
+      213: 7801478726828683426
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_11"
+  - first:
+      213: 7628449550040410779
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_12"
+  - first:
+      213: -4145200140100435953
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_13"
+  - first:
+      213: -2665537544928295408
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_14"
+  - first:
+      213: 643139236585438617
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_15"
+  - first:
+      213: 1573977687152731240
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_16"
+  - first:
+      213: -3955465556155018429
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_17"
+  - first:
+      213: 1345004576112995077
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_18"
+  - first:
+      213: 3835954459809155448
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_19"
+  - first:
+      213: -2350030429417696196
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_20"
+  - first:
+      213: 1372191379152524842
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_21"
+  - first:
+      213: -3790516915961108501
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_22"
+  - first:
+      213: -8044304964186266784
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_23"
+  - first:
+      213: -4377221421602435885
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_24"
+  - first:
+      213: -5916531396312162994
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_25"
+  - first:
+      213: -5587843752431126133
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_26"
+  - first:
+      213: -2579845416588883542
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_27"
+  - first:
+      213: -8637867445050244284
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_28"
+  - first:
+      213: -2835324553761082064
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_29"
+  - first:
+      213: -3219321265281264513
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_30"
+  - first:
+      213: -1040934121203438557
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_31"
+  - first:
+      213: 2208016568718920594
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_32"
+  - first:
+      213: 4495426793006297460
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_33"
+  - first:
+      213: -2322862450409917069
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_34"
+  - first:
+      213: 1279587382864242679
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_35"
+  - first:
+      213: -6660860236726649367
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_36"
+  - first:
+      213: 4076061744171930462
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_37"
+  - first:
+      213: 5099420580130870030
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_38"
+  - first:
+      213: 8238086707547805616
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_39"
+  - first:
+      213: -3727682652425072509
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_40"
+  - first:
+      213: -3006225120213060099
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_41"
+  - first:
+      213: 5141492453693644808
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_42"
+  - first:
+      213: -683181207870280635
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_43"
+  - first:
+      213: 8221611001199068122
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_44"
+  - first:
+      213: 4173325155202257560
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_45"
+  - first:
+      213: -2557762588673457003
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_46"
+  - first:
+      213: -6284766804918582217
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_47"
+  - first:
+      213: -1901519593115629434
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_48"
+  - first:
+      213: -3288375467028965285
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_49"
+  - first:
+      213: 2335669152897941142
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_50"
+  - first:
+      213: 8722531605592556853
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_51"
+  - first:
+      213: 2120688810155250655
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_52"
+  - first:
+      213: 8716420499839096647
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_53"
+  - first:
+      213: 8257213183056987177
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_54"
+  - first:
+      213: 3004769158200253718
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_55"
+  - first:
+      213: 4125918056876149590
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_56"
+  - first:
+      213: -1202421358749404441
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_57"
+  - first:
+      213: -7311262053483825556
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_58"
+  - first:
+      213: -366120315922084283
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_59"
+  - first:
+      213: 3515171360763737507
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_60"
+  - first:
+      213: 4728420348957630007
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_61"
+  - first:
+      213: 2602575615192623653
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_62"
+  - first:
+      213: -6714426981017120767
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_63"
+  - first:
+      213: 2465142436139377759
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_64"
+  - first:
+      213: 4787890842155612094
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_65"
+  - first:
+      213: 5168677248780644936
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_66"
+  - first:
+      213: 1030881461899727057
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_67"
+  - first:
+      213: 8957976641764429346
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_68"
+  - first:
+      213: -9199484246640399413
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_69"
+  - first:
+      213: 9212691981506441032
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_70"
+  - first:
+      213: -3376319920504871346
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_71"
+  - first:
+      213: -622813291878900212
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_72"
+  - first:
+      213: -4735551496814874597
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_73"
+  - first:
+      213: -6980195329877713603
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_74"
+  - first:
+      213: 2541873578985518596
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_75"
+  - first:
+      213: 2917441412893247877
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_76"
+  - first:
+      213: -4336848100002047818
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_77"
+  - first:
+      213: 3192144677936387556
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_78"
+  - first:
+      213: 4813524845478747110
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_79"
+  - first:
+      213: -205363979705173177
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_80"
+  - first:
+      213: -7429833980409293368
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_81"
+  - first:
+      213: -8275849707426912638
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_82"
+  - first:
+      213: 1260521325534065732
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_83"
+  - first:
+      213: -1648012667464551572
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_84"
+  - first:
+      213: 2031794465053588164
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_85"
+  - first:
+      213: 6938957030789828917
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_86"
+  - first:
+      213: -5738441678538098052
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_87"
+  - first:
+      213: -898457360249367895
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_88"
+  - first:
+      213: 2643571712462108065
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_89"
+  - first:
+      213: 4560881446516727144
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_90"
+  - first:
+      213: -2503545084566982845
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_91"
+  - first:
+      213: -5817119585806797571
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_92"
+  - first:
+      213: 6871149667774581166
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_93"
+  - first:
+      213: -4956252249925733164
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_94"
+  - first:
+      213: 6243939205715143101
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_95"
+  - first:
+      213: -6010119301632163817
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_96"
+  - first:
+      213: 822609163688069311
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_97"
+  - first:
+      213: 5498356140678317170
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_98"
+  - first:
+      213: -3489754081330448786
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_99"
+  - first:
+      213: -7977684952624571907
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_100"
+  - first:
+      213: 9144444226298440617
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_101"
+  - first:
+      213: -6521698055614822037
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_102"
+  - first:
+      213: -2361339836391100238
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_103"
+  - first:
+      213: 6879352125167636169
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_104"
+  - first:
+      213: -2131678850667983934
+    second: "\u30B9\u30C6\u30FC\u30B8\uFF11\u30DE\u30C8\u30E1 (1)_105"
+  - first:
+      213: 730813437275248537
+    second: StageTile1_0
+  - first:
+      213: -4665496910969937906
+    second: StageTile1_1
+  - first:
+      213: -1384807700762274227
+    second: StageTile1_2
+  - first:
+      213: 969269969949812836
+    second: StageTile1_3
+  - first:
+      213: 3906917907767727605
+    second: StageTile1_4
+  - first:
+      213: -3358098737479575335
+    second: StageTile1_5
+  - first:
+      213: -8160155928909105099
+    second: StageTile1_6
+  - first:
+      213: -6003231236799036609
+    second: StageTile1_7
+  - first:
+      213: 8747274444015014066
+    second: StageTile1_8
+  - first:
+      213: -8086044710752197417
+    second: StageTile1_9
+  - first:
+      213: -2757729831636189304
+    second: StageTile1_10
+  - first:
+      213: 1467539743251898388
+    second: StageTile1_11
+  - first:
+      213: 5472150629724943647
+    second: StageTile1_12
+  - first:
+      213: -6726053958485031317
+    second: StageTile1_13
+  - first:
+      213: -1211375215812231013
+    second: StageTile1_14
+  - first:
+      213: -5807719031610119227
+    second: StageTile1_15
+  - first:
+      213: -8214494523119329206
+    second: StageTile1_16
+  - first:
+      213: -9037230917021495779
+    second: StageTile1_17
+  - first:
+      213: -3870870894333906678
+    second: StageTile1_18
+  - first:
+      213: 2521852201903266318
+    second: StageTile1_19
+  - first:
+      213: -3416740731398354458
+    second: StageTile1_20
+  - first:
+      213: 5970137417853862585
+    second: StageTile1_21
+  - first:
+      213: 8297332010377406401
+    second: StageTile1_22
+  - first:
+      213: 7325121298281469921
+    second: StageTile1_23
+  - first:
+      213: -2102840650338601829
+    second: StageTile1_24
+  - first:
+      213: -3883249167442936703
+    second: StageTile1_25
+  - first:
+      213: 1955191374230091036
+    second: StageTile1_26
+  - first:
+      213: -4889963986187948538
+    second: StageTile1_27
+  - first:
+      213: 4650892871149705355
+    second: StageTile1_28
+  - first:
+      213: -4843126479392980902
+    second: StageTile1_29
+  - first:
+      213: -8365290123195759125
+    second: StageTile1_30
+  - first:
+      213: 8885528997482591666
+    second: StageTile1_31
+  - first:
+      213: -5876464197339529951
+    second: StageTile1_32
+  - first:
+      213: -6789792411885754023
+    second: StageTile1_33
+  - first:
+      213: 3710982252248093338
+    second: StageTile1_34
+  - first:
+      213: 135967714394140276
+    second: StageTile1_35
+  - first:
+      213: -6744751273312559219
+    second: StageTile1_36
+  - first:
+      213: -7300088139137967212
+    second: StageTile1_37
+  - first:
+      213: 903556527142226155
+    second: StageTile1_38
+  - first:
+      213: -9074624861898414724
+    second: StageTile1_39
+  - first:
+      213: 330559871535943640
+    second: StageTile1_40
+  - first:
+      213: 8296153456024864284
+    second: StageTile1_41
+  - first:
+      213: 4775083170783765480
+    second: StageTile1_42
+  - first:
+      213: -7214357336373276820
+    second: StageTile1_43
+  - first:
+      213: -1069630354713401082
+    second: StageTile1_44
+  - first:
+      213: 240615212699882994
+    second: StageTile1_45
+  - first:
+      213: 9200447776943950698
+    second: StageTile1_46
+  - first:
+      213: 6395800238649165991
+    second: StageTile1_47
+  - first:
+      213: 6935417991750193604
+    second: StageTile1_48
+  - first:
+      213: -4180920991137407049
+    second: StageTile1_49
+  - first:
+      213: -326055930126692403
+    second: StageTile1_50
+  - first:
+      213: -3357557493983645744
+    second: StageTile1_51
+  - first:
+      213: 2675429989178984567
+    second: StageTile1_52
+  - first:
+      213: -4824626498763503096
+    second: StageTile1_53
+  - first:
+      213: 6451708588216229417
+    second: StageTile1_54
+  - first:
+      213: 1645264227926875828
+    second: StageTile1_55
+  - first:
+      213: -6057159713750228400
+    second: StageTile1_56
+  - first:
+      213: 2318240409438218873
+    second: StageTile1_57
+  - first:
+      213: 1209059738031849648
+    second: StageTile1_58
+  - first:
+      213: 5214864819589543507
+    second: StageTile1_59
+  - first:
+      213: 4701922552839850995
+    second: StageTile1_60
+  - first:
+      213: -5809974342032743636
+    second: StageTile1_61
+  - first:
+      213: -7569306247135608178
+    second: StageTile1_62
+  - first:
+      213: 8566537173046782641
+    second: StageTile1_63
+  - first:
+      213: 6956121819691337764
+    second: StageTile1_64
+  - first:
+      213: -1787875081551250829
+    second: StageTile1_65
+  - first:
+      213: -1108469073356091349
+    second: StageTile1_66
+  - first:
+      213: -2461928390531753134
+    second: StageTile1_67
+  - first:
+      213: -6295663774367292955
+    second: StageTile1_68
+  - first:
+      213: 9200117601685479741
+    second: StageTile1_69
+  - first:
+      213: 8827061615097657693
+    second: StageTile1_70
+  - first:
+      213: -4611458043587894886
+    second: StageTile1_71
+  - first:
+      213: 2524698677181136214
+    second: StageTile1_72
+  - first:
+      213: 4038938712380931414
+    second: StageTile1_73
+  - first:
+      213: 1201702422040367285
+    second: StageTile1_74
+  - first:
+      213: 4101531650475077463
+    second: StageTile1_75
+  - first:
+      213: 1691249290010817748
+    second: StageTile1_76
+  - first:
+      213: -8282295469449548515
+    second: StageTile1_77
+  - first:
+      213: 8467218775758086823
+    second: StageTile1_78
+  - first:
+      213: -5427384656254411666
+    second: StageTile1_79
+  - first:
+      213: 6782098528402914914
+    second: StageTile1_80
+  - first:
+      213: 6964795855396367161
+    second: StageTile1_81
+  - first:
+      213: -1396285001952562225
+    second: StageTile1_82
+  - first:
+      213: -6880042868355050067
+    second: StageTile1_83
+  - first:
+      213: 487827253351773273
+    second: StageTile1_84
+  - first:
+      213: -308632080628956694
+    second: StageTile1_85
+  - first:
+      213: 7445925041990986734
+    second: StageTile1_86
+  - first:
+      213: 6825468273330483615
+    second: StageTile1_87
+  - first:
+      213: -155966365068569232
+    second: StageTile1_88
+  - first:
+      213: -148547492261108275
+    second: StageTile1_89
+  - first:
+      213: 6759728626010723099
+    second: StageTile1_90
+  - first:
+      213: -6343309409808889692
+    second: StageTile1_91
+  - first:
+      213: 5058850308093827668
+    second: StageTile1_92
+  - first:
+      213: -6767582061464911530
+    second: StageTile1_93
+  - first:
+      213: 3241850778644726803
+    second: StageTile1_94
+  - first:
+      213: 9175918560931681021
+    second: StageTile1_95
+  - first:
+      213: 6628544050956968994
+    second: StageTile1_96
+  - first:
+      213: -3777322444415821185
+    second: StageTile1_97
+  - first:
+      213: -5729415286406113766
+    second: StageTile1_98
+  - first:
+      213: 678289344084562057
+    second: StageTile1_99
+  - first:
+      213: -4291806672240062624
+    second: StageTile1_100
+  - first:
+      213: 7047369854544832140
+    second: StageTile1_101
+  - first:
+      213: 8294308260636266410
+    second: StageTile1_102
+  - first:
+      213: -5042052311877667245
+    second: StageTile1_103
+  - first:
+      213: -7775545579574574974
+    second: StageTile1_104
+  - first:
+      213: 5907463299022224325
+    second: StageTile1_105
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StageTile1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9979fddf2fe542a00800000000000000
+      internalID: 730813437275248537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0064f04743d04fb0800000000000000
+      internalID: -4665496910969937906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d6d1bbbc28cce0800000000000000
+      internalID: -1384807700762274227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ef4af6e9837d00800000000000000
+      internalID: 969269969949812836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59b1b2329283630800000000000000
+      internalID: 3906917907767727605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d897df7df2a561d0800000000000000
+      internalID: -3358098737479575335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383391ca6d41ce80800000000000000
+      internalID: -8160155928909105099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3380122ffc30bca0800000000000000
+      internalID: -6003231236799036609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b01e5403cf846970800000000000000
+      internalID: 8747274444015014066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d460b16d2998cf80800000000000000
+      internalID: -8086044710752197417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb3d644539ab9d0800000000000000
+      internalID: -2757729831636189304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102c420f9fbd5410800000000000000
+      internalID: 1467539743251898388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157f2a410cf0fb40800000000000000
+      internalID: 5472150629724943647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c3689f8148a2a0800000000000000
+      internalID: -6726053958485031317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cccbc8a4503fe0800000000000000
+      internalID: -1211375215812231013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6a95bf46d66fa0800000000000000
+      internalID: -5807719031610119227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a414e0c0400e80800000000000000
+      internalID: -8214494523119329206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e81cdbc5e459280800000000000000
+      internalID: -9037230917021495779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0134db2e67e74ac0800000000000000
+      internalID: -3870870894333906678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1b7e573b6ff220800000000000000
+      internalID: 2521852201903266318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9846f486c4590d0800000000000000
+      internalID: -3416740731398354458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28273b9503ad250800000000000000
+      internalID: 5970137417853862585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e506908b062370800000000000000
+      internalID: 8297332010377406401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e717b8b20f08a560800000000000000
+      internalID: 7325121298281469921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94f051e19531d2e0800000000000000
+      internalID: -2102840650338601829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7b30e47deb1ac0800000000000000
+      internalID: -3883249167442936703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1574e0223c322b10800000000000000
+      internalID: 1955191374230091036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e60d6a9ab532cb0800000000000000
+      internalID: -4889963986187948538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885641cc6a4b8040800000000000000
+      internalID: 4650892871149705355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504e718022c9ccb0800000000000000
+      internalID: -4843126479392980902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be545d344f488eb80800000000000000
+      internalID: -8365290123195759125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5f160bb8dbf4b70800000000000000
+      internalID: 8885528997482591666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12db64682fa927ea0800000000000000
+      internalID: -5876464197339529951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95928e676cfc5c1a0800000000000000
+      internalID: -6789792411885754023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d60162be008330800000000000000
+      internalID: 3710982252248093338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e62657aed03e100800000000000000
+      internalID: 135967714394140276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f57dfb374d562a0800000000000000
+      internalID: -6744751273312559219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b93a5d380e0ba90800000000000000
+      internalID: -7300088139137967212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84ccacfd31a8c00800000000000000
+      internalID: 903556527142226155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ed9c74c4701280800000000000000
+      internalID: -9074624861898414724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df06e7a372669400800000000000000
+      internalID: 330559871535943640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16cd740d9bd12370800000000000000
+      internalID: 8296153456024864284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3238728d0844240800000000000000
+      internalID: 4775083170783765480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fccb2d93471eb90800000000000000
+      internalID: -7214357336373276820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609255a0cd8e721f0800000000000000
+      internalID: -1069630354713401082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51888d246d65300800000000000000
+      internalID: 240615212699882994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc64fc18e8eaf70800000000000000
+      internalID: 9200447776943950698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ca0f3e6272c850800000000000000
+      internalID: 6395800238649165991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c19f170bed8f3060800000000000000
+      internalID: 6935417991750193604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd74192826af5c0800000000000000
+      internalID: -4180920991137407049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf83ebebdd997bf0800000000000000
+      internalID: -326055930126692403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df67229f3f8761d0800000000000000
+      internalID: -3357557493983645744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c07e6669012520800000000000000
+      internalID: 2675429989178984567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac347e2cb7b0db0800000000000000
+      internalID: -4824626498763503096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e17f247c2198950800000000000000
+      internalID: 6451708588216229417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be1d3b291725d610800000000000000
+      internalID: 1645264227926875828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526c122555a0fba0800000000000000
+      internalID: -6057159713750228400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a658cae5b0c2020800000000000000
+      internalID: 2318240409438218873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b08d950d6177c010800000000000000
+      internalID: 1209059738031849648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f0538cebee5840800000000000000
+      internalID: 5214864819589543507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbca6366a5904140800000000000000
+      internalID: 4701922552839850995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2321055e13de5fa0800000000000000
+      internalID: -5809974342032743636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824657721c64f690800000000000000
+      internalID: -7569306247135608178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae1a2eb2472e670800000000000000
+      internalID: 8566537173046782641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428cb0d90fb198060800000000000000
+      internalID: 6956121819691337764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a7d5df5113037e0800000000000000
+      internalID: -1787875081551250829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209a1e204ded90f0800000000000000
+      internalID: -1108469073356091349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd7e33c2975ddd0800000000000000
+      internalID: -2461928390531753134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1ea8f272f41a8a0800000000000000
+      internalID: -6295663774367292955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d312844e6326daf70800000000000000
+      internalID: 9200117601685479741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b16a65c5008a70800000000000000
+      internalID: 8827061615097657693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916357875fc000c0800000000000000
+      internalID: -4611458043587894886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db74a0218890320800000000000000
+      internalID: 2524698677181136214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df9051c513d0830800000000000000
+      internalID: 4038938712380931414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b051776cfd4da010800000000000000
+      internalID: 1201702422040367285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa6952e419be830800000000000000
+      internalID: 4101531650475077463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f9b5c446887710800000000000000
+      internalID: 1691249290010817748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de1aae6206f0d80800000000000000
+      internalID: -8282295469449548515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a224948d9a918570800000000000000
+      internalID: 8467218775758086823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cdc80296e0ea4b0800000000000000
+      internalID: -5427384656254411666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb721bdaade1e50800000000000000
+      internalID: 6782098528402914914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b630eedece7a060800000000000000
+      internalID: 6964795855396367161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3796540366f9ce0800000000000000
+      internalID: -1396285001952562225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5dc38967d2580a0800000000000000
+      internalID: -6880042868355050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95479c36d4c15c600800000000000000
+      internalID: 487827253351773273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae142d302c487bbf0800000000000000
+      internalID: -308632080628956694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebee00206d355760800000000000000
+      internalID: 7445925041990986734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ff815b3fe8be50800000000000000
+      internalID: 6825468273330483615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075dd25da65e5ddf0800000000000000
+      internalID: -155966365068569232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56083c7d040fdf0800000000000000
+      internalID: -148547492261108275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13986bee516fcd50800000000000000
+      internalID: 6759728626010723099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c2f733b908f7a0800000000000000
+      internalID: -6343309409808889692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45adec16d85a43640800000000000000
+      internalID: 5058850308093827668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510416a8f7b412a0800000000000000
+      internalID: -6767582061464911530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31441fb6b1e5dfc20800000000000000
+      internalID: 3241850778644726803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21f38a059675f70800000000000000
+      internalID: 9175918560931681021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_96
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a15fd1b15dfb50800000000000000
+      internalID: 6628544050956968994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1c7aff31449bc0800000000000000
+      internalID: -3777322444415821185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16121b17270d70b0800000000000000
+      internalID: -5729415286406113766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_99
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d7119094c96900800000000000000
+      internalID: 678289344084562057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fca7012907074c0800000000000000
+      internalID: -4291806672240062624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e0fc4b894dc160800000000000000
+      internalID: 7047369854544832140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf00dcfa6d4b1370800000000000000
+      internalID: 8294308260636266410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563893e228070ab0800000000000000
+      internalID: -5042052311877667245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804992fd76b71490800000000000000
+      internalID: -7775545579574574974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageTile1_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb70e542968bf150800000000000000
+      internalID: 5907463299022224325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
